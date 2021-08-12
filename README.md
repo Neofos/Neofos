@@ -2,7 +2,7 @@
 - 👀 I’m interested in video games, anime and programming
 - 🌱 I’m currently learning C#
 - 💞️ I’m looking to collaborate on... uhhh, currently nothing?
-- 📫 How to reach me... no way
+- 📫 How to reach me... somehow
 
 <!---
 Neofos/Neofos is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
