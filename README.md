@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Neofos
-- 👀 I’m interested in video games, anime and programming
+- 👀 I’m interested in video games and programming
 - 🌱 I’m currently learning C#
 - 💞️ I’m looking to collaborate on... uhhh, currently nothing?
 - 📫 How to reach me... somehow
