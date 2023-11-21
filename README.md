@@ -1,5 +1,4 @@
-- Using HTML, CSS, JS and PHP for web projects
-- Using C# for desktop projects
+An aspiring developer with a love for humanity and its accomplishments.
 
 <!--
 **Neofos/Neofos** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
